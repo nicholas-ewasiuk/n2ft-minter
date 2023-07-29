@@ -1,0 +1,1 @@
+export const API_KEY = "https://rpc.helius.xyz/?api-key=95dda5bb-5456-4d06-b547-8f82337f1023";
